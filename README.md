@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C & Javascript
 - 💞️ I’m looking to collaborate on Web Design
 - 📫 How to reach me leombernardoni@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Psych is gone by april 30
 <!---
 LeomMb-coder/LeomMb-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
