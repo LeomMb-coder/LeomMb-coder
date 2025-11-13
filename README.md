@@ -6,5 +6,5 @@
 <ul>
   <li>Contributing to open-source projects to help improve the internet.</li>
   <li>Learning more about open-source collaboration.</li>
-  <li>Developing useful community-driven projects.</li>
+  <li><b>Developing useful community-driven projects.</b></li>
 </ul>
